@@ -1,0 +1,5 @@
+# Packages installed:
+  1. react-icons
+  2. react-hook-form
+  3. clsx
+  4. -D prisma
