@@ -1,0 +1,4 @@
+react-icons
+react-hook-form
+clsx
+@tailwindcss/forms
